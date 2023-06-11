@@ -8,12 +8,13 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+1. Uizard Wireframes: https://app.uizard.io/prototypes/PjWwK68v4asnvmYZ8pGg
+2. Deprecated figma wireframes: https://www.figma.com/file/0eZik409h0AdcylJz68tRt/Qlean-Quotes-User-Journey?type=whiteboard&node-id=0-1
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/69tSr3fF/qleanquotes
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/Apr-23-LC-LiftOff-STL/Qlean-Quotes.git
