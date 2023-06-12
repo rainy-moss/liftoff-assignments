@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[Qlean Quotes Final Presentation (1).pdf](..%2F..%2F..%2FDownloads%2FQlean%20Quotes%20Final%20Presentation%20%281%29.pdf)
